@@ -1,0 +1,29 @@
+/* Fonts added */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lugrasimo&family=Pacifico&family=Roboto&display=swap');
+
+/* Navbar starts */
+.navbar {
+    border-radius: 0px;
+}
+.navbar-brand,.h1,.h2,.h3,.h4,.h5,.h6{
+    font-family: 'Lobster', cursive;
+}
+
+/* Body part */
+#body{
+    padding-top: 100px;
+}
+
+/* About Table */
+.table>tbody>tr.success>td{
+    background-color: purple;
+}
+.table>tbody>tr.ghum>td{
+    background-color: palevioletred;
+}
+.table>tbody>tr.utheJao>td{
+    background-color: rgb(29, 192, 138);
+}
+.table>tbody>tr.khubValo>td{
+    background-color: goldenrod;
+}
